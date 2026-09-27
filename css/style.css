@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Oswald:wght@200..700&display=swap');
+
+@import url('components/middle.css');
+@import url('components/banner.css');
+@import url('components/button.css');
+@import url('components/card.css');
+@import url('components/flexbox.css');
+@import url('components/logo.css');
+
+body {
+	font-family: "Nunito Sans", sans-serif;
+	font-size: 18px;
+	margin: 0px;
+	background-color: #FAF9FB;
+	color: white;
+
+}
+
+h1, h2 {
+	font-family: "Nunito Sans", sans-serif;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+}
+
+a {
+	color: white;
+}

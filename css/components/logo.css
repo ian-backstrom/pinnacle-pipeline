@@ -1,0 +1,29 @@
+.logo {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+	margin-left: 5px;
+	margin-top: 0px;
+}
+
+.logo img{
+	width: 75px;
+	height: auto;
+	margin: 1px;
+}
+
+.logo h1 {
+	font-size: 18px;
+	font-weight: bold;
+	margin: 0px;
+	line-height: 1.1;
+	letter-spacing: 1px;
+}
+
+.logo h2 {
+	font-size: 18px;
+	font-weight: lighter;
+	margin: 0px;
+	line-height: 1.1;
+	letter-spacing: 1px;
+}

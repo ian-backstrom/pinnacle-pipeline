@@ -1,0 +1,18 @@
+.middle {
+	display: grid;
+	grid-template-columns: 40% 60%;
+}
+
+.middle .img {
+	background-image: url(../../images/middle_background.avif);
+	background-size: cover;
+}
+
+.middle .flexbox {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.middle .flexbox .card {
+	flex-basis: 340px;
+}
